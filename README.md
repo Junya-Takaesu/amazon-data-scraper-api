@@ -12,6 +12,7 @@
   - ファイルの変更があったときにターミナルをリロードする
 
 ## API サーバーをローカルで起動
+> ※各種 docker コマンドは、プロジェクトルート(README.mdがある階層)で実行すること
 ### 1. npm install
 docker の nodejs コンテナで、npm install をして package.json の内容をインストールする(node_modules フォルダが作られる)
 ```
