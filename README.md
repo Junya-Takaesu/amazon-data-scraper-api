@@ -33,7 +33,7 @@ http://localhost:5000/products/B08M3DC3B1?api_key=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 - `api_key`
   - api_key として、ScraperAPI の API Key を指定する。API Key は ScaperAPI のダッシュボードで確認できる。
-    -　[ScraperAPI Dashboard](https://dashboard.scraperapi.com/dashboard)
+    - [ScraperAPI Dashboard](https://dashboard.scraperapi.com/dashboard)
 - 最後のパスは、amazon の puroduct id。商品ページのURLの dp というパスの次の文字列がそれ。
 
 ### 3. npm run start
